@@ -1,0 +1,10 @@
+python3dist(setuptools)
+python3dist(wheel)
+python3dist(torch) >= 1.9
+python3dist(numpy) >= 1.19.5
+python3dist(protobuf) >= 3.19.5
+python3dist(psutil) >= 5.9.4
+python3dist(boto3) >= 1.26
+python3dist(redis) >= 4.5.5
+python3dist(hiredis) >= 2.2
+python3dist(libnacl) >= 2.1
